@@ -1,5 +1,5 @@
 let name
-name= "Choufli Nouha";
+name= "send nudes bb";
 let admin
 admin= name;
 alert (admin);
